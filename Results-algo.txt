@@ -1,0 +1,35 @@
+Results for 2 dimensions Maximum
+
+the zBEst 0.4285516588432029    - 1000 bees, 600 iterations 
+the zBEst 0.42886941517788507   - 1000 bees, 600 iterations 
+
+the zBEst 0.4288682524536932    - 10000 bees, 600 iteartions
+the zBEst 0.42887926949672334   - 10000 bees, 600 iteartions
+
+the zBEst 0.4288816898112782    - 10000 bees, 1000 iterations
+the zBEst 0.4288810250773194    - 10000 bees, 1000 iterations
+
+Results for 2 dimensions Minimum
+
+the zBEst -0.4288818678659032  - 10000 bees , 1000 iterations
+the zBEst -0.4288817809599204  - 10000 bees , 1000 iterations 
+
+
+
+
+
+
+Results for 4 dimensions Maximum
+
+the zBEst 0.8011588155828365    - 1000 bees, 10000 iterations
+the zBEst 0.8352984796184677    - 1000 bees, 10000 iterations
+
+the zBEst 0.8531511938763422    - 10000 bees, 10000 iterations
+the zBEst 0.8444341133501018     -10000 bees, 10000 iterations
+
+
+Results for 4 dimensions Minimum
+  
+the zBEst -0.8447135337116638     - 10000 bees, 10000 iterations
+the zBEst -0.8045361465802773     - 10000 bees, 10000 iterations
+
